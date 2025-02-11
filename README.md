@@ -24,7 +24,7 @@ A simple Paytm-like application built using **Node.js** for the backend and **Mo
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clonehttps://github.com/Maitrey27/Paybee.git
    ```
 2. Install dependencies:  
    ```bash
